@@ -1,5 +1,48 @@
-# Datenschutz
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invertory Scanner Datenschutz</title>
+</head>
+<body>
+    <h1>Datenschutzerklärung für Invertory Scanner</h1>
+    <p>Diese App verwendet die Kamera ausschließlich zum Scannen von Barcodes.</p>
+    
+    <h2>Erhobene Daten</h2>
+    <p>Es werden keine personenbezogenen Daten gespeichert oder übertragen.</p>
+    
+    <h2>Kamera</h2>
+    <p>Die Kamera wird nur lokal auf dem Gerät verwendet, um Barcodes zu erkennen.
+    Es erfolgt keine Speicherung oder Übertragung von Bildern.</p>
+    
+    <h2>Drittanbieter</h2>
+    <p>Es werden keine Drittanbieter-Dienste verwendet.</p>
 
-Die App verwendet die Kamera ausschließlich zum Scannen von Barcodes/Artikeln.
-Es werden keine Kameraaufnahmen dauerhaft gespeichert oder an Dritte übertragen,
-außer dies ist für die vom Nutzer ausdrücklich ausgelöste Funktion erforderlich.
+        <h2>Erhobene Daten</h2>
+        <p>
+        Die App erhebt, speichert oder überträgt keine personenbezogenen Daten.
+        </p>
+        
+        <h2>Kamera</h2>
+        <p>
+        Die Kamera wird ausschließlich zur Erfassung von Barcodes verwendet.
+        Die Verarbeitung erfolgt lokal auf dem Gerät.
+        Es werden keine Bilder gespeichert oder an externe Server übertragen.
+        </p>
+        
+        <h2>Drittanbieter</h2>
+        <p>
+        Die App verwendet keine Drittanbieter-Dienste.
+        </p>
+        
+        <h2>Datenübertragung</h2>
+        <p>
+        Es findet keine Datenübertragung an externe Server statt.
+        </p>
+    
+    <h2>Kontakt</h2>
+    <p>Author: Jürgen Reichert</p>
+    <p>E-Mail: juergen.reichert.rz@gmail.com</p>
+</body>
+</html>
